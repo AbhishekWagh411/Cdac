@@ -1,0 +1,14 @@
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\assignment.AssemblyInfoInputs.cache
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\assignment.AssemblyInfo.cs
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\assignment.csproj.CoreCompileInputs.cache
+D:\SM_VITA\C#\Day1_1\assignment\bin\Debug\net7.0\assignment.exe
+D:\SM_VITA\C#\Day1_1\assignment\bin\Debug\net7.0\assignment.deps.json
+D:\SM_VITA\C#\Day1_1\assignment\bin\Debug\net7.0\assignment.runtimeconfig.json
+D:\SM_VITA\C#\Day1_1\assignment\bin\Debug\net7.0\assignment.dll
+D:\SM_VITA\C#\Day1_1\assignment\bin\Debug\net7.0\assignment.pdb
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\assignment.dll
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\refint\assignment.dll
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\assignment.pdb
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\assignment.genruntimeconfig.cache
+D:\SM_VITA\C#\Day1_1\assignment\obj\Debug\net7.0\ref\assignment.dll
