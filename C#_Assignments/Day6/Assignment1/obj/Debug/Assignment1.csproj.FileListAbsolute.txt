@@ -1,0 +1,7 @@
+D:\SM_VITA\C#\Assignments\Day6\Assignment1\bin\Debug\Assignment1.exe.config
+D:\SM_VITA\C#\Assignments\Day6\Assignment1\bin\Debug\Assignment1.exe
+D:\SM_VITA\C#\Assignments\Day6\Assignment1\bin\Debug\Assignment1.pdb
+D:\SM_VITA\C#\Assignments\Day6\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\SM_VITA\C#\Assignments\Day6\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\SM_VITA\C#\Assignments\Day6\Assignment1\obj\Debug\Assignment1.exe
+D:\SM_VITA\C#\Assignments\Day6\Assignment1\obj\Debug\Assignment1.pdb

@@ -1,0 +1,14 @@
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.exe
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.deps.json
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.runtimeconfig.json
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.dll
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.pdb
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.AssemblyInfoInputs.cache
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.AssemblyInfo.cs
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.csproj.CoreCompileInputs.cache
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.dll
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\refint\Employee_Assignment.dll
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.pdb
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.genruntimeconfig.cache
+D:\SM_VITA\C#\Assignments\Day8\Employee_Assignment\obj\Debug\net7.0\ref\Employee_Assignment.dll
