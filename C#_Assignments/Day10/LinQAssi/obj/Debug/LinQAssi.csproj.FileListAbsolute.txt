@@ -1,0 +1,7 @@
+D:\SM_VITA\C#\Assignments\Day10\LinQAssi\bin\Debug\LinQAssi.exe.config
+D:\SM_VITA\C#\Assignments\Day10\LinQAssi\bin\Debug\LinQAssi.exe
+D:\SM_VITA\C#\Assignments\Day10\LinQAssi\bin\Debug\LinQAssi.pdb
+D:\SM_VITA\C#\Assignments\Day10\LinQAssi\obj\Debug\LinQAssi.csproj.AssemblyReference.cache
+D:\SM_VITA\C#\Assignments\Day10\LinQAssi\obj\Debug\LinQAssi.csproj.CoreCompileInputs.cache
+D:\SM_VITA\C#\Assignments\Day10\LinQAssi\obj\Debug\LinQAssi.exe
+D:\SM_VITA\C#\Assignments\Day10\LinQAssi\obj\Debug\LinQAssi.pdb
