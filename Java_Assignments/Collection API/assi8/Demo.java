@@ -13,7 +13,7 @@ import java.util.List;
 public class Demo {
 	public static void main(String[] args) {
 		Employee e1 = new Employee(1, "Abhishek", " ae", 12000);
-		Employee e2 = new Employee(2, "Abhishek", " je", 22000);
+		Employee e2 = new Employee(2, "Mayur", " je", 22000);
 		List<Employee> list = new ArrayList<>();
 		list.add(e1);
 		list.add(e2);
