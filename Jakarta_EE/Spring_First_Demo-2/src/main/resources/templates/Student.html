@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+            background-image: linear-gradient(225deg, #2af598 0%, #009efd 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        main {
+            background-color: white;
+            padding: 20px;
+            width: 80%;
+            border-radius: 10px;
+            color: #454545;
+        }
+
+        h1, p {
+            text-align: center;
+            color: white;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        input, select {
+            width: 100%;
+            margin-bottom: 15px;
+            border: none;
+            border-bottom: 2px solid #454545;
+            padding: 10px 0;
+            font-family: inherit;
+            font-size: 16px;
+            outline: none;
+            color: #454545;
+        }
+
+        input:focus, select:focus {
+            border: 2px solid;
+            border-image-source: linear-gradient(45deg, rgb(250,112,154), rgb(254,225,64));
+            border-image-slice: 1;
+            border-top: none;
+            border-left: none;
+            border-right: none;
+        }
+
+        button {
+            width: 100%;
+            color: #454545;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            padding: 10px;
+            border: none;
+            border-radius: 3px;
+            background-image: linear-gradient(45deg, rgb(250,112,154), rgb(254,225,64));
+        }
+
+        button:hover {
+            background-image: linear-gradient(45deg, rgb(254,225,64), rgb(250,112,154));
+        }
+
+        ::selection {
+            background-color: #454545;
+            color: white;
+        }
+
+        @media screen and (max-width: 700px) {
+            main {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Survey Form</h1>
+        
+        <form th:action="@{new_student}" method="post">
+            <label for="name">Name</label>
+            <input type="text" name="name" placeholder="Name">
+            <label for="age">Age</label>
+            <input type="number" name="age" placeholder="Age">
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+</body>
+</html>
